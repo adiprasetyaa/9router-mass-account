@@ -43,8 +43,8 @@ A Puppeteer-based automation tool for bulk-adding Google accounts to the Antigra
 
 ```bash
 # Clone the repository
-git clone https://github.com/pfrfrr/Add-Mass-Account-AntiGravity-to-9Router.git
-cd Add-Mass-Account-AntiGravity-to-9Router
+git clone https://github.com/adiprasetyaa/9router-mass-account.git
+cd 9router-mass-account
 
 # Install dependencies
 npm install
@@ -157,7 +157,7 @@ The bot includes several layers of error handling:
 ## Project Structure
 
 ```
-Add-Mass-Account-AntiGravity-to-9Router/
+9router-mass-account/
 |-- bot.js              # Main automation script
 |-- account.txt            # Account list file (not tracked by Git)
 |-- screenshots/        # Error screenshots (created automatically)
